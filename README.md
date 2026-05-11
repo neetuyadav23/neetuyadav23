@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neetu Yadav</h1>
 
 <h3 align="center">
-Full Stack Developer • Machine Learning Enthusiast • Problem Solver
+Full Stack Developer • Machine Learning • Problem Solver
 </h3>
 
 ---
@@ -30,56 +30,30 @@ Computer Science student passionate about Machine Learning, impactful tech commu
 ## 🛠 Languages and Tools
 
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-
 <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" height="45"/>
-
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" height="45"/>
-
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="45" height="45"/>
-
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
-
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -104,15 +78,3 @@ Machine Learning web application that predicts salaries using data analysis, vis
 A comprehensive desktop application designed to streamline laundry business operations with features for customer management, order tracking, billing, and reporting. Perfect for small to medium-sized laundry businesses looking to digitize their operations.
 
 **Tech Stack:** Python,MySQL
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neetuyadav23&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neetuyadav23&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
