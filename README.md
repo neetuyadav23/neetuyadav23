@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neetu Yadav</h1>
 
 <h3 align="center">
-Full Stack Developer • Machine Learning • Problem Solver
+• Gen AI • Full Stack • Machine Learning 
 </h3>
 
 ---
