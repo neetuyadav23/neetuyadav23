@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neetu Yadav</h1>
 
 <h3 align="center">
-• Gen AI • Full Stack • Machine Learning 
+SDE Fresher • Full-Stack & GenAI (RAG, LangGraph) • Research Intern @ C-DAC
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-Computer Science student passionate about Machine Learning, impactful tech communities, and building products that solve real-world problems.
+Final-year Computer Science student building full-stack systems and applied GenAI — from RBAC-secured platforms to RAG pipelines. Currently a Research Intern at C-DAC, architecting an EEG Analysis Agent for research-scale data.
 
-- 👯 Looking to collaborate on **Full Stack, AI/ML, and impactful tech products**
-- 💡 Interested in **AI-powered applications, recommendation systems, and scalable products**
+- 🔭 Currently building: EEG Analysis Agent (LangGraph, LangChain) @ C-DAC
+- 🏆 Adobe Hackathon Top 4000/2L+ · Goldman Sachs Hackathon Top 2000/10K
+- 💻 100+ problems solved on LeetCode
+- 👯 Open to SDE/SWE and GenAI Engineer roles
 - 👨‍💻 Portfolio: https://neetuyadav23.github.io/
 - 📫 Reach me at: **neetuwork888@gmail.com**
 
@@ -42,29 +44,51 @@ Computer Science student passionate about Machine Learning, impactful tech commu
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=neetuyadav23&show_icons=true&theme=radical&hide_border=true" alt="Neetu's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neetuyadav23&theme=radical&hide_border=true" alt="Neetu's GitHub Streak" height="165"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
+
+### 🔹 CodebaseAI Assistant
+
+RAG-based code assistant for GitHub repos — AST-aware chunking, FAISS vector search, Gemini 2.5 Flash reasoning, Dockerized. Achieves 50–90ms retrieval latency.
+
+**Tech Stack:** Python, FAISS, Sentence Transformers, Gemini 2.5 Flash, Streamlit, Docker
+
+---
 
 ### 🔹 StartupVidyapith
 
-Full-stack MERN + ML platform connecting students, founders, and mentors with intelligent recommendation systems and community discovery.
+Full-stack RBAC platform connecting students and founders — JWT/bcrypt auth, RBAC middleware, FastAPI ML microservice for recommendations. Fixed a production OOM crash by re-architecting the embedding pipeline.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, FastAPI, K-Means Clustering, Scikit-learn
+**Tech Stack:** React, Node.js, Express.js, MongoDB, FastAPI, Scikit-learn
 
 ---
 
@@ -72,7 +96,7 @@ Full-stack MERN + ML platform connecting students, founders, and mentors with in
 
 Machine Learning web application that predicts salaries using data analysis, visualization, and regression-based ML models with an interactive interface.
 
-**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit,ML
+**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit, ML
 
 ---
 
@@ -80,4 +104,4 @@ Machine Learning web application that predicts salaries using data analysis, vis
 
 A comprehensive desktop application designed to streamline laundry business operations with features for customer management, order tracking, billing, and reporting. Perfect for small to medium-sized laundry businesses looking to digitize their operations.
 
-**Tech Stack:** Python,MySQL
+**Tech Stack:** Python, MySQL
