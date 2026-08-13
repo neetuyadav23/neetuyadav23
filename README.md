@@ -68,8 +68,8 @@ Final-year Computer Science student building full-stack systems and applied GenA
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=neetuyadav23&show_icons=true&theme=radical&hide_border=true" alt="Neetu's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neetuyadav23&theme=radical&hide_border=true" alt="Neetu's GitHub Streak" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=neetuyadav23&show_icons=true&theme=radical" alt="Neetu's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/streak?username=neetuyadav23&theme=radical" alt="Neetu's GitHub Streak" height="165"/>
 </p>
 
 ---
