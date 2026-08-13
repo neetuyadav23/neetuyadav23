@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neetu Yadav</h1>
 
 <h3 align="center">
-SDE Fresher • Full-Stack & GenAI (RAG, LangGraph) • Research Intern @ C-DAC
+SDE Fresher • Full-Stack & GenAI (RAG, LangGraph) • Intern @ C-DAC
 </h3>
 
 ---
