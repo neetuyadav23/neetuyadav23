@@ -8,7 +8,7 @@ SDE Fresher • Full-Stack & GenAI (RAG, LangGraph) • Intern @ C-DAC
 
 ## 🚀 About Me
 
-Final-year Computer Science student building full-stack systems and applied GenAI — from RBAC-secured platforms to RAG pipelines. Currently a Research Intern at C-DAC, architecting an EEG Analysis Agent for research-scale data.
+Final-year Computer Science student building full-stack systems and applied GenAI — from RBAC-secured platforms to RAG pipelines. Currently an Intern at C-DAC, architecting an EEG Analysis Agent for research-scale data.
 
 - 🔭 Currently building: EEG Analysis Agent (LangGraph, LangChain) @ C-DAC
 - 🏆 Adobe Hackathon Top 4000/2L+ · Goldman Sachs Hackathon Top 2000/10K
